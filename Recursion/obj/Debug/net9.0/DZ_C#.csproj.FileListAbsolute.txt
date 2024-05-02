@@ -1,0 +1,14 @@
+F:\Git\DZ_C#\bin\Debug\net9.0\DZ_C#.exe
+F:\Git\DZ_C#\bin\Debug\net9.0\DZ_C#.deps.json
+F:\Git\DZ_C#\bin\Debug\net9.0\DZ_C#.runtimeconfig.json
+F:\Git\DZ_C#\bin\Debug\net9.0\DZ_C#.dll
+F:\Git\DZ_C#\bin\Debug\net9.0\DZ_C#.pdb
+F:\Git\DZ_C#\obj\Debug\net9.0\DZ_C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\DZ_C#\obj\Debug\net9.0\DZ_C#.AssemblyInfoInputs.cache
+F:\Git\DZ_C#\obj\Debug\net9.0\DZ_C#.AssemblyInfo.cs
+F:\Git\DZ_C#\obj\Debug\net9.0\DZ_C#.csproj.CoreCompileInputs.cache
+F:\Git\DZ_C#\obj\Debug\net9.0\DZ_C#.dll
+F:\Git\DZ_C#\obj\Debug\net9.0\refint\DZ_C#.dll
+F:\Git\DZ_C#\obj\Debug\net9.0\DZ_C#.pdb
+F:\Git\DZ_C#\obj\Debug\net9.0\DZ_C#.genruntimeconfig.cache
+F:\Git\DZ_C#\obj\Debug\net9.0\ref\DZ_C#.dll
